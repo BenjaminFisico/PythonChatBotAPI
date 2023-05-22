@@ -1,0 +1,18 @@
+[
+    {
+        "user_input": ["hola"],
+        "bot_response": "Hola bienvenido a nuestro sitio web. Las respuestas en este chat estan automatizadas",
+        "required_words": []
+
+    },
+    {
+        "user_input": ["adios","nos","vemos"],
+        "bot_response": "¡Hasta la proxima!",
+        "required_words": []
+    },
+    {
+        "user_input": ["donde","puedo","quiero","comprar"],
+        "bot_response": "Puedes verificar todo nuestro catalogo dirigiendote a la siguiente URL: http://tiendaonline.grupoiccsrl.com/",
+        "required_words": ["comprar"]
+    }
+]
